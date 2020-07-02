@@ -1,7 +1,7 @@
 
 from .common import Iterable, Mapping, Sequence \
     , Complex, Integral, Number, Rational, Real \
-    , hasws, stripsplit, uniques, partial, reverse_partial \
+    , hasws, stripsplit, uniques \
     , reduce, dbg_print
 import warnings
 
