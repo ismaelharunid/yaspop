@@ -30,7 +30,13 @@ yaspop is yet another simple python option parser. use it and make pop proud.
 Features
 --------
 
-* TODO
+* Settings
+* Configuration
+* Options
+* Commands
+* Sub parsers and branches
+* Readline queries for missing details or requirements
+* Code analysis to partially automate configuration
 
 Credits
 -------
