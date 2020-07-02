@@ -12,14 +12,6 @@ yaspop.common module
    :undoc-members:
    :show-inheritance:
 
-yaspop.configurator module
---------------------------
-
-.. automodule:: yaspop.configurator
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
 yaspop.settings module
 ----------------------
 
